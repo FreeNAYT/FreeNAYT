@@ -1,4 +1,4 @@
-<a name="english"></a> 🇫🇷 [Version française](#french)
+<a name="english"></a> 🇫🇷 [Cliquer ici pour la version française](#french)
 <div align="center">
   
 #  Hello, everyone &#x1F44B;
@@ -54,13 +54,17 @@ Starting in the early 2000s, I made a definitive shift to:
   - VB.Net
   - SQL Server
   - SharePoint
-- third-party environments:
+- WEB:
   - HTML, JavaScript / jQuery
+- third-party environments:
   - SAP
   - ServiceNow
+
+<span style="font-size: 8px;">*Translation note*</span>[^1]
+
 <hr>
 
-<a name="french"></a>🇬🇧 [English version](#english)
+<a name="french"></a>🇬🇧 [Click here for the english version](#english)
 <div align="center">
   
 #  Bonjour à tous &#x1F44B;
@@ -120,11 +124,13 @@ A partir du début des années 2000, je me suis définitivement tourné vers :
   - VB.Net
   - SQL Server
   - SharePoint
-- les environnements tiers :
+- WEB :
   - HTML, javascript / JQuery
+- les environnements tiers :
   - SAP
   - Service Now
 
-
 [![GitHub followers](https://img.shields.io/github/followers/freenayt?style=social&label=Followers)](https://github.com/freenayt)
 [![GitHub stars](https://img.shields.io/github/stars/freenayt?style=social&label=Stars)](https://github.com/freenayt)
+
+[^1]: Translated from French to English using [Deepl](https://www.deepl.com/). <br>&#x2B06; [Top/Haut de page](#english)
