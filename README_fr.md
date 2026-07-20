@@ -6,7 +6,7 @@ permalink: /README_fr.html
 
 <div align="center">
   
-#  Bonjour à tous :wave:
+#  Bonjour à tous :U+1F44B:
 
 </div>
 
