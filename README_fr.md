@@ -1,5 +1,3 @@
----/---
-
 <div align="center">
   
 #  Bonjour à tous &#x1F44B;
