@@ -64,9 +64,5 @@ A partir du début des années 2000, je me suis définitivement tourné vers :
 
 
 
-*Développeur VB.Net passionné | Composants open-source réutilisables*
-*Passionate VB.Net Developer | Reusable open-source components*
-
-
 [![GitHub followers](https://img.shields.io/github/followers/freenayt?style=social&label=Followers)](https://github.com/freenayt)
 [![GitHub stars](https://img.shields.io/github/stars/freenayt?style=social&label=Stars)](https://github.com/freenayt)
