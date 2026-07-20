@@ -6,7 +6,7 @@ permalink: /README_fr.html
 
 <div align="center">
   
-#  Bonjour à tous :U+1F44B:
+#  Bonjour à tous &#x1F44B;
 
 </div>
 
