@@ -1,3 +1,9 @@
+---
+title: "README en français"
+layout: default
+permalink: /README_fr.html
+---
+
 <div align="center">
   
 #  Bonjour à tous :wave:
